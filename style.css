@@ -1,0 +1,47 @@
+header{
+    background-color:rgba(10, 10, 10, 0.897);
+    color: rgb(206, 74, 96);
+    font-size: 10px;
+    margin: auto;
+    padding: 15px;
+    text-align: right;
+    letter-spacing: 2px;
+    word-spacing: 15px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Cinzel', serif;
+}
+body{
+    font-family: 'Cinzel', serif;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.header-contacto{
+    background-color: rgba(0, 0, 0, 0.432);
+    padding: 5px;
+    border: 5px;
+    border-style:inherit;
+    border-color: rgb(206, 74, 96);
+    margin: 5px;
+    letter-spacing: 2px;
+    word-spacing: 15px;
+
+}
+.imagen-chica-gato{
+    width: 200px;
+    height: 200px;
+    /*float: right;*/
+}
+
+.encabezado-foto{
+    background-color: rgb(230, 224, 224);
+    padding: 150px;
+    margin: auto;
+    box-shadow:rgb(0, 0, 0) 0px 5px 15px;
+
+}
+
+p{
+    font-size: 13px;
+}
